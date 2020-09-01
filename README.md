@@ -1,5 +1,6 @@
 # (more follow soon)
 
+# Small Screens till SM Breakpoint
 ![IMG PREV](https://www.awesomescreenshot.com/upload/1417516/1457799/8a25a538-3cc9-43bf-4259-3f06aa6d59a6.png "Cards")
 
 # Responsive and Inteligent
