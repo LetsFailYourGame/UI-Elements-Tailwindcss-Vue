@@ -50,6 +50,6 @@ yarn global add @vue/cli
 ```
 npm run serve
 ```
-### More Info's @ [Vue-CLI](https://cli.vuejs.org/) @ [tailwindcss](https://tailwindcss.com/docs/installation)
+### More Info's [[Vue-CLI](https://cli.vuejs.org/)] [[tailwindcss](https://tailwindcss.com/docs/installation)]
 
 
