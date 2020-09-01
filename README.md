@@ -12,7 +12,7 @@
 # Small Screens Till SM Breakpoint
 ![IMG PREV](https://www.awesomescreenshot.com/upload/1417516/1457799/8a25a538-3cc9-43bf-4259-3f06aa6d59a6.png "Cards")
 
-# Responsive and Inteligent
+# Inteligent And Fast
 the data for the card's is stored in an array insided app.vue. vue will then create as many card's as there's data. the card's only show until **sm** breakpoint is triggered.
 
 ```javascript
