@@ -1,7 +1,7 @@
 <template>
    <div>
-        <div class="bg-gray-400">
-        <img class="h-48 w-screen object-cover select-none" :src="apartments.img_link">
+        <div class="relative bg-gray-400 pb-1/2">
+            <img class="absolute h-full w-full object-cover select-none" :src="apartments.img_link">
         </div>
         
         <div class="px-2">

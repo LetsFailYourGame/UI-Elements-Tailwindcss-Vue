@@ -1,13 +1,17 @@
 <template>
-  <div id="app">
+  <div id="app" class="h-full bg-gray-100">
     <body class="font-Montserrat">
+
+      <div class="md:hidden">
         <a href="#SomeLink">
-            <div class="flex justify-center sm:hidden" v-for="apartments in Apartments" :key="apartments">
-                <div class="shadow-md max-w-xl bg-gray-300 mx-2 pb-2 my-3 rounded-xl overflow-hidden"> 
-                    <Apartment-card :apartments="apartments" />
-                </div>
+          <div class="flex justify-center" v-for="apartments in Apartments" :key="apartments">
+            <div class="shadow-md max-w-xl bg-gray-300 mx-2 pb-2 my-3 rounded-xl overflow-hidden"> 
+              <Apartment-card :apartments="apartments" />
             </div>
+          </div>
         </a>      
+      </div>
+
     </body>
   </div>
 </template>
