@@ -23,7 +23,7 @@
 
           <!-- Showcase IMG -->
           <div class="relative pr-30/100 bg-gray-300">
-            <img class="absolute w-full h-full object-cover" :src="apartments.img_link" alt=""></div>
+            <img class="select-none absolute w-full h-full object-cover" :src="apartments.img_link" alt=""></div>
           <!-- Showcase IMG -->
 
           <!-- Right Side of IMG Container-->

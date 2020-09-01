@@ -2,7 +2,7 @@
     <div>
         <div class="relative bg-gray-400 pb-1/2">
             <img
-                class="absolute h-full w-full object-cover select-none"
+                class=" absolute h-full w-full object-cover select-none"
                 :src="apartments.img_link"></div>
 
             <div class="px-2">
@@ -24,8 +24,6 @@
                 </div>
 
                 <p class="my-2 text-xs text-gray-600">{{apartments.description}}</p>
-
-                <div class="border border-gray-400 rounded-full"></div>
 
                 <div class="flex flex-wrap mt-2 items-center justify-between">
                     <div class="flex items-center">
