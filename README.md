@@ -2,7 +2,7 @@
 
 - desktop (hover effect)
 
-![IMG PREV](https://www.awesomescreenshot.com/upload/1417516/1457799/19596f81-6018-49ba-53ed-07d830aca214.png "Cards")
+![IMG PREV](https://www.awesomescreenshot.com/upload/1417516/1457799/a1876108-8a1c-45df-6e18-1c800481c9f9.png "Cards")
 
 
 ## Small Screens Till SM Breakpoint
