@@ -40,17 +40,16 @@
 
 ![IMG PREV](https://s3.amazonaws.com/awesomescreenshot/upload/1417516/1457799/10e1acef-3c58-4441-4e8e-f73881eea543.png?AWSAccessKeyId=AKIAJSCJQ2NM3XLFPVKA&Expires=1598948943&Signature=qdazsdnEiJiLADc0O5eTybNht%2Fo%3D "Title")
 
-# Install Vue-Cli
+### Install Vue-Cli
 ```
 npm install -g @vue/cli
 # OR
 yarn global add @vue/cli
 ```
-# Start Lokal Dev Server
+### Start Lokal Dev Server
 ```
 npm run serve
 ```
-# More Info's @ [Vue-CLI](https://cli.vuejs.org/)
-
+### More Info's @ [Vue-CLI](https://cli.vuejs.org/) @ [tailwindcss](https://tailwindcss.com/docs/installation)
 
 
