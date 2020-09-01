@@ -15,7 +15,7 @@
 # Inteligent And Fast
 - the data for the card's is stored in an array insided app.vue
 - vue will then create as many card's as there's data
-- the card's only show until **sm** breakpoint is triggered
+- the card's only show until **SM** breakpoint is triggered ([tailwindcss docs](https://tailwindcss.com/docs/breakpoints#app))
 
 ```javascript
  data() {
