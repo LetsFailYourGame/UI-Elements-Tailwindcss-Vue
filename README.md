@@ -11,7 +11,7 @@ The Data For The Card's Is Stored In An Array Insided App.vue. Vue Will Then Cre
       Apartments: [
         {
           title: 'Manhattan Tower in NYC',
-          img_link: 'https://images.unsplash.com/photo-1470219556762-1771e7f9427d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80',
+          img_link: 'https://images.unsplash.com/....',
           baths: 4,
           rooms: 8,
           size: 560,
