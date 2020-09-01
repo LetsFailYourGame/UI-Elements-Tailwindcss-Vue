@@ -1,6 +1,6 @@
 ## Upcoming (Work In Progress)
 
-- desktop (hover effect)
+- Desktop (with hover effect)
 
 ![IMG PREV](https://www.awesomescreenshot.com/upload/1417516/1457799/a1876108-8a1c-45df-6e18-1c800481c9f9.png "Cards")
 
