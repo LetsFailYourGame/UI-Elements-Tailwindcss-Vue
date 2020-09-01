@@ -1,6 +1,6 @@
 # (more follow soon)
 
-![IMG PREV](https://camo.githubusercontent.com/ac4421eb63d7cfa2ee5e12d3765dcdc761b2f4ae/68747470733a2f2f7777772e617765736f6d6573637265656e73686f742e636f6d2f6170692f76312f64657374696e6174696f6e2f696d6167652f73686f773f496d6167654b65793d746d2d343734382d31383730362d6163396137366234333730346662633736393566646130356135346166303935 "Title")
+![IMG PREV](https://s3.amazonaws.com/awesomescreenshot/upload/1417516/1457799/61d3cadb-371b-4686-71d7-29e89926dce4.png?AWSAccessKeyId=AKIAJSCJQ2NM3XLFPVKA&Expires=1598949100&Signature=MZT6D%2FQF8Jhqte%2Bsi%2F84%2FiN%2B2F8%3D "Title")
 
 # Responsive and Inteligent
 The Data For The Card's Is Stored In An Array Insided App.vue. Vue Will Then Create As Many Card's As There's Data. The Card's Only Show Until **sm** Breakpoint Is Triggered.
