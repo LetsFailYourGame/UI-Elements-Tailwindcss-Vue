@@ -36,10 +36,6 @@
         ....
      ]
 ```
-## Card's Are Fully Responsive / Mobile Ready
-
-![IMG PREV](https://s3.amazonaws.com/awesomescreenshot/upload/1417516/1457799/10e1acef-3c58-4441-4e8e-f73881eea543.png?AWSAccessKeyId=AKIAJSCJQ2NM3XLFPVKA&Expires=1598948943&Signature=qdazsdnEiJiLADc0O5eTybNht%2Fo%3D "Title")
-
 
 ## TODO
 - Create a NEW Badge
